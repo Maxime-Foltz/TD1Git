@@ -1,1 +1,3 @@
 blog passionnant
+Contributors:
+TaupeHardie
